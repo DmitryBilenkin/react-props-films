@@ -1,0 +1,6 @@
+.star-item{    
+    list-style-type: none !important;
+};
+
+ /* ------ Стили класса .star-item не применяются
+  ----------В devtools стили применяются корректно */
