@@ -5,7 +5,7 @@
     flex-direction: column;
     justify-content: center;
     margin-top: 100px;
-};
+}
 
 .rate-container__stars{
     display: flex !important;
@@ -13,6 +13,6 @@
     justify-content: center !important;
     padding: 0 !important;
     min-height: 31px !important;
-};
+}
  /* ------ Стили класса rate-container__stars не применяются
  ----------В devtools стили применяются корректно */
